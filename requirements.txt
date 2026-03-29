@@ -1,0 +1,4 @@
+tensorflow
+paho-mqtt
+matplotlib
+numpy
